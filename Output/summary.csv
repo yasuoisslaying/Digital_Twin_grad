@@ -1,0 +1,22 @@
+activity,class,occurrences,total_duration_sec,avg_duration_sec,sensor_events
+Sleep in Bed,normal,60,76699,1278,229
+Take medication,normal,89,4215,47,362
+Go to toilet,normal,291,37023,127,694
+Dress,normal,58,8209,141,348
+Cook breakfast,normal,57,21665,380,457
+Eat breakfast,normal,52,23873,459,188
+Wash dishes,normal,165,105550,639,916
+Bathe,normal,113,57773,511,548
+Leave home,normal,120,2917,24,1194
+Enter home,normal,120,1845,15,584
+Cook lunch,normal,58,23689,408,564
+Eat lunch,normal,52,26954,518,192
+Cook dinner,normal,57,35955,630,578
+Eat dinner,normal,53,33860,638,202
+Watch TV,normal,75,94728,1263,632
+Read,normal,88,64588,733,492
+Sleep,normal,60,149404,2490,148
+Missed medication,missed_medication,15,1010,67,36
+Fall,fall,11,32577,2961,44
+Prolonged inactivity,prolonged_inactivity,16,122192,7637,44
+Late medication,late_medication,16,766,47,72

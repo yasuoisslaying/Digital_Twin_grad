@@ -1,0 +1,6 @@
+class,activities,total_duration_sec,sensor_events
+normal,1568,768954,8328
+missed_medication,15,1010,36
+fall,11,32577,44
+prolonged_inactivity,16,122192,44
+late_medication,16,766,72
